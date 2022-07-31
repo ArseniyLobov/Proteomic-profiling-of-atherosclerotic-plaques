@@ -2,4 +2,4 @@ This repository has three files that are necessary to reproduce statistical anal
 
 Files list:
 
-R code (code_plaques.r) Results of protein identification - output of FragPipe (report.pg_matrix.tsv) Sample info in excel format (sample_info.xlsx) Raw proteomics data was deposited to the ProteomeXchange Consortium with project identifier PXD035173 (will be available after the publication of the article).
+R code (code_plaques.r) Results of protein identification - output of DIA-NN (report.pg_matrix.tsv) Sample info in excel format (sample_info.xlsx) Raw proteomics data was deposited to the ProteomeXchange Consortium with project identifier PXD035173 (will be available after the publication of the article).
